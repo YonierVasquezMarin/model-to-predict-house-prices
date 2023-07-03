@@ -1,8 +1,8 @@
 # created by virtualenv automatically
-.ipynb_checkpoints
-etc
-Lib
-Scripts
-share
+.ipynb_checkpoints/
+etc/
+Lib/
+Scripts/
+share/
 pyvenv.cfg
-models_saved
+models_saved/
