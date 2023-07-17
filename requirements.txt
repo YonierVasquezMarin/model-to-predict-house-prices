@@ -7,3 +7,5 @@ pandas
 scipy
 scikit-learn
 jotlib
+azure-ai-ml
+mlflow

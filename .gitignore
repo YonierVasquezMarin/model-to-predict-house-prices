@@ -6,3 +6,5 @@ Scripts/
 share/
 pyvenv.cfg
 models_saved/
+.amlignore
+.amlignore.amltmp
